@@ -1,0 +1,12 @@
+C:\Users\szymo\OneDrive\Pulpit\JA\ProjektJA\C_ImageLibrary\bin\x64\Release\C_ImageLibrary.dll
+C:\Users\szymo\OneDrive\Pulpit\JA\ProjektJA\C_ImageLibrary\bin\x64\Release\C_ImageLibrary.pdb
+C:\Users\szymo\OneDrive\Pulpit\JA\ProjektJA\C_ImageLibrary\obj\x64\Release\C_ImageLibrary.csproj.AssemblyReference.cache
+C:\Users\szymo\OneDrive\Pulpit\JA\ProjektJA\C_ImageLibrary\obj\x64\Release\C_ImageLibrary.csproj.CoreCompileInputs.cache
+C:\Users\szymo\OneDrive\Pulpit\JA\ProjektJA\C_ImageLibrary\obj\x64\Release\C_ImageLibrary.dll
+C:\Users\szymo\OneDrive\Pulpit\JA\ProjektJA\C_ImageLibrary\obj\x64\Release\C_ImageLibrary.pdb
+C:\Users\szymo\OneDrive\Pulpit\ProjektJA\C_ImageLibrary\bin\x64\Release\C_ImageLibrary.dll
+C:\Users\szymo\OneDrive\Pulpit\ProjektJA\C_ImageLibrary\bin\x64\Release\C_ImageLibrary.pdb
+C:\Users\szymo\OneDrive\Pulpit\ProjektJA\C_ImageLibrary\obj\x64\Release\C_ImageLibrary.csproj.AssemblyReference.cache
+C:\Users\szymo\OneDrive\Pulpit\ProjektJA\C_ImageLibrary\obj\x64\Release\C_ImageLibrary.csproj.CoreCompileInputs.cache
+C:\Users\szymo\OneDrive\Pulpit\ProjektJA\C_ImageLibrary\obj\x64\Release\C_ImageLibrary.dll
+C:\Users\szymo\OneDrive\Pulpit\ProjektJA\C_ImageLibrary\obj\x64\Release\C_ImageLibrary.pdb
